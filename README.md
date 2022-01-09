@@ -26,5 +26,5 @@ python3 todocli.py --help
 # Show usage of a command
 
 ```shell
-python todocli.py <command> --help
+python3 todocli.py <command> --help
 ```
